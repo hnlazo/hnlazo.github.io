@@ -3,8 +3,11 @@ title: Heather's William and Mary Classwork
 description: This page will display classwork from my MSBA program at William and Mary.
 ---
 
-![My Picture](/pics/HNovak.jpg)
+![My Picture](/pics/HNovak.jpg =200x)
 
-Group project on voter analysis in Python:
+### Group project on voter analysis in Python:
 
 - [Voter Analysis Group Assignment](/timeseries/index.md)
+
+### Useful WM Links
+- [WM Online MSBA Schedule](https://www.wm.edu/offices/registrar/calendarsandexams/schoolofbusiness/index.php#omsba)
