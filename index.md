@@ -8,7 +8,3 @@ description: This page will display classwork from my MSBA program at William an
 Group project on voter analysis in Python:
 
 - [Voter Analysis Group Assignment](/timeseries/index.md)
-
-```
-The final element.
-```
