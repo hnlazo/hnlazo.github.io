@@ -11,3 +11,6 @@ description: This page will display classwork from my MSBA program at William an
 
 ### **Useful WM Links**
 - [WM Online MSBA Schedule](https://www.wm.edu/offices/registrar/calendarsandexams/schoolofbusiness/index.php#omsba)
+- [WM Connect](https://wmconnect.wm.edu/)
+
+
