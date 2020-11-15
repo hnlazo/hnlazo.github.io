@@ -14,3 +14,5 @@ description: This page will display classwork from my MSBA program at William an
 - [WM Connect](https://wmconnect.wm.edu/)
 
 
+### **Repositories**
+- [My School Repository](https://github.com/hnlazo/SchoolRepository)
