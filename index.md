@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Heather's William and Mary Classwork
+description: this page will display classwork from my MSBA program at William and Mary.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
